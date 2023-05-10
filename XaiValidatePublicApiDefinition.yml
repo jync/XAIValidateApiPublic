@@ -4117,6 +4117,7 @@ components:
                     type: number
                     description: The estimated value of the security.
             Product:
+              type: object
               properties:
                   Key:
                     type: string
